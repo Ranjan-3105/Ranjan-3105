@@ -2,7 +2,7 @@
 
 # Soumya Ranjan Nanda
 
-### Backend Engineer • AI Systems Builder • Competitive Programmer
+Backend Engineer | AI & Systems | Java
 
 <p>
 <a href="https://ranjan-kappa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-53D8FB?style=for-the-badge&logo=vercel&logoColor=363732"/></a>
@@ -10,25 +10,33 @@
 <a href="mailto:srnranjan2005@gmail.com"><img src="https://img.shields.io/badge/Email-363732?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=53D8FB&lines=Building+Scalable+Backend+Systems;AI+Applications+%26+RAG+Pipelines;Competitive+Programming+in+Java;Always+Learning.+Always+Shipping."/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=53D8FB&lines=Building+Backend+Systems;Developing+AI+Applications;Competitive+Programming+in+Java;Learning+Something+New+Every+Day"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+## About
 
 <table>
 <tr>
 <td width="65%">
 
-Backend-focused software engineer passionate about scalable systems, AI-powered applications and clean software architecture.
+I'm a Computer Science undergraduate at **OUTR, Bhubaneswar** with an interest in backend engineering, distributed systems and AI.
 
-- 🎓 B.Tech CSE (AI/ML), OUTR Bhubaneswar — **CGPA 8.9**
-- 🏆 2nd Runner-Up — HackOdisha (KIIT)
-- 🛠 Currently building AI agents, Spring Boot services & distributed systems
-- 🌱 Learning System Design, DevOps & Cloud
-- 📫 **srnranjan2005@gmail.com**
+Most of my work revolves around Java, Spring Boot and modern web technologies. Recently I've been exploring system design, DevOps and large language models while continuing competitive programming in Java.
+
+**Education**
+
+- B.Tech CSE (AI/ML), OUTR
+- CGPA: **8.9/10**
+
+**Current Focus**
+
+- Spring Boot
+- Distributed Systems
+- AI Applications
+- System Design
 
 </td>
 
@@ -42,9 +50,7 @@ Backend-focused software engineer passionate about scalable systems, AI-powered 
 
 ---
 
-# 🧭 Explore My Work
-
-<p align="center"><i>Everything I build or learn is documented below.</i></p>
+## Explore
 
 <div align="center">
 
@@ -55,13 +61,13 @@ Backend-focused software engineer passionate about scalable systems, AI-powered 
 
 <a href="https://github.com/Ranjan-3105/projects-showcase">
 
-<img src="https://img.shields.io/badge/🚀%20Projects-Explore-53D8FB?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Projects-53D8FB?style=for-the-badge"/>
 
 </a>
 
 <br>
 
-Deep dives into every major project.
+Project documentation and case studies
 
 </td>
 
@@ -69,13 +75,13 @@ Deep dives into every major project.
 
 <a href="https://github.com/Ranjan-3105/learning-log">
 
-<img src="https://img.shields.io/badge/📚%20Learning-Explore-66C3FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-66C3FF?style=for-the-badge"/>
 
 </a>
 
 <br>
 
-Notes, roadmaps & resources.
+Notes, roadmaps and resources
 
 </td>
 
@@ -83,13 +89,13 @@ Notes, roadmaps & resources.
 
 <a href="https://github.com/Ranjan-3105/education-journey">
 
-<img src="https://img.shields.io/badge/🎓%20Education-Explore-D4AFB9?style=for-the-badge&logoColor=363732"/>
+<img src="https://img.shields.io/badge/Education-D4AFB9?style=for-the-badge&logoColor=363732"/>
 
 </a>
 
 <br>
 
-Coursework, certifications & academics.
+Coursework and certifications
 
 </td>
 
@@ -100,16 +106,7 @@ Coursework, certifications & academics.
 
 ---
 
-# 🚧 Currently Building
-
-- 🤖 AI Agents & RAG Pipelines
-- ☕ Spring Boot + PostgreSQL
-- ⚡ Redis & Distributed Systems
-- 📚 System Design + DevOps
-
----
-
-# 💡 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -128,42 +125,33 @@ Coursework, certifications & academics.
 <td><a href="https://github.com/Ranjan-3105/interceptor"><img src="assets/cards/interceptor.svg" width="380"/></a></td>
 <td><a href="https://github.com/Ranjan-3105/portfolio"><img src="assets/cards/portfolio.svg" width="380"/></a></td>
 </tr>
-
 </table>
 
 </div>
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
 
-### Languages
+**Languages**
 
-<p>
 <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js"/>
-</p>
 
-### Backend
+**Frameworks**
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi"/>
-</p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,nextjs"/>
 
-### Frontend
+**Databases**
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
 
-### Database & Cloud
+**Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,linux,git"/>
-</p>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,aws"/>
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -181,22 +169,12 @@ Coursework, certifications & academics.
 
 ---
 
-# 🐍 Contributions
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Ranjan-3105/Ranjan-3105/output/github-contribution-grid-snake-dark.svg"/>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ranjan-3105&style=for-the-badge&color=53D8FB&label=Profile+Views"/>
-
 <br><br>
 
-### *"Design • Build • Iterate"*
+<img src="https://komarev.com/ghpvc/?username=Ranjan-3105&style=for-the-badge&color=53D8FB&label=Profile+Views"/>
 
 </div>
