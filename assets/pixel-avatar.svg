@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 384" width="384" height="384">
+  <defs>
+    <style>
+      .bg {
+        fill: #f7f7fb;
+      }
+      .pixel {
+        opacity: 0;
+        transform-box: fill-box;
+        transform-origin: center;
+        transform: scale(0);
+        animation: pixelIn 6s ease-in-out infinite;
+      }
+      @keyframes pixelIn {
+        0%   { opacity: 0; transform: scale(0); }
+        8%   { opacity: 1; transform: scale(1.15); }
+        14%  { opacity: 1; transform: scale(1); }
+        80%  { opacity: 1; transform: scale(1); }
+        92%  { opacity: 0.15; transform: scale(0.85); }
+        100% { opacity: 0; transform: scale(0); }
+      }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="384" height="384" rx="28"/>
+  <rect id="px-0-5" class="pixel" x="120" y="0" width="24" height="24" fill="#2b2f77" style="animation-delay:0.225s"/>
+    <rect id="px-0-6" class="pixel" x="144" y="0" width="24" height="24" fill="#2b2f77" style="animation-delay:0.270s"/>
+    <rect id="px-0-7" class="pixel" x="168" y="0" width="24" height="24" fill="#2b2f77" style="animation-delay:0.315s"/>
+    <rect id="px-0-8" class="pixel" x="192" y="0" width="24" height="24" fill="#2b2f77" style="animation-delay:0.360s"/>
+    <rect id="px-0-9" class="pixel" x="216" y="0" width="24" height="24" fill="#2b2f77" style="animation-delay:0.405s"/>
+    <rect id="px-0-10" class="pixel" x="240" y="0" width="24" height="24" fill="#2b2f77" style="animation-delay:0.450s"/>
+    <rect id="px-1-4" class="pixel" x="96" y="24" width="24" height="24" fill="#2b2f77" style="animation-delay:0.225s"/>
+    <rect id="px-1-5" class="pixel" x="120" y="24" width="24" height="24" fill="#2b2f77" style="animation-delay:0.270s"/>
+    <rect id="px-1-6" class="pixel" x="144" y="24" width="24" height="24" fill="#2b2f77" style="animation-delay:0.315s"/>
+    <rect id="px-1-7" class="pixel" x="168" y="24" width="24" height="24" fill="#2b2f77" style="animation-delay:0.360s"/>
+    <rect id="px-1-8" class="pixel" x="192" y="24" width="24" height="24" fill="#2b2f77" style="animation-delay:0.405s"/>
+    <rect id="px-1-9" class="pixel" x="216" y="24" width="24" height="24" fill="#2b2f77" style="animation-delay:0.450s"/>
+    <rect id="px-1-10" class="pixel" x="240" y="24" width="24" height="24" fill="#2b2f77" style="animation-delay:0.495s"/>
+    <rect id="px-1-11" class="pixel" x="264" y="24" width="24" height="24" fill="#2b2f77" style="animation-delay:0.540s"/>
+    <rect id="px-2-3" class="pixel" x="72" y="48" width="24" height="24" fill="#2b2f77" style="animation-delay:0.225s"/>
+    <rect id="px-2-4" class="pixel" x="96" y="48" width="24" height="24" fill="#2b2f77" style="animation-delay:0.270s"/>
+    <rect id="px-2-5" class="pixel" x="120" y="48" width="24" height="24" fill="#2b2f77" style="animation-delay:0.315s"/>
+    <rect id="px-2-6" class="pixel" x="144" y="48" width="24" height="24" fill="#2b2f77" style="animation-delay:0.360s"/>
+    <rect id="px-2-7" class="pixel" x="168" y="48" width="24" height="24" fill="#2b2f77" style="animation-delay:0.405s"/>
+    <rect id="px-2-8" class="pixel" x="192" y="48" width="24" height="24" fill="#2b2f77" style="animation-delay:0.450s"/>
+    <rect id="px-2-9" class="pixel" x="216" y="48" width="24" height="24" fill="#2b2f77" style="animation-delay:0.495s"/>
+    <rect id="px-2-10" class="pixel" x="240" y="48" width="24" height="24" fill="#2b2f77" style="animation-delay:0.540s"/>
+    <rect id="px-2-11" class="pixel" x="264" y="48" width="24" height="24" fill="#2b2f77" style="animation-delay:0.585s"/>
+    <rect id="px-2-12" class="pixel" x="288" y="48" width="24" height="24" fill="#2b2f77" style="animation-delay:0.630s"/>
+    <rect id="px-3-2" class="pixel" x="48" y="72" width="24" height="24" fill="#2b2f77" style="animation-delay:0.225s"/>
+    <rect id="px-3-3" class="pixel" x="72" y="72" width="24" height="24" fill="#2b2f77" style="animation-delay:0.270s"/>
+    <rect id="px-3-4" class="pixel" x="96" y="72" width="24" height="24" fill="#2b2f77" style="animation-delay:0.315s"/>
+    <rect id="px-3-5" class="pixel" x="120" y="72" width="24" height="24" fill="#2b2f77" style="animation-delay:0.360s"/>
+    <rect id="px-3-6" class="pixel" x="144" y="72" width="24" height="24" fill="#2b2f77" style="animation-delay:0.405s"/>
+    <rect id="px-3-7" class="pixel" x="168" y="72" width="24" height="24" fill="#2b2f77" style="animation-delay:0.450s"/>
+    <rect id="px-3-8" class="pixel" x="192" y="72" width="24" height="24" fill="#2b2f77" style="animation-delay:0.495s"/>
+    <rect id="px-3-9" class="pixel" x="216" y="72" width="24" height="24" fill="#2b2f77" style="animation-delay:0.540s"/>
+    <rect id="px-3-10" class="pixel" x="240" y="72" width="24" height="24" fill="#2b2f77" style="animation-delay:0.585s"/>
+    <rect id="px-3-11" class="pixel" x="264" y="72" width="24" height="24" fill="#2b2f77" style="animation-delay:0.630s"/>
+    <rect id="px-3-12" class="pixel" x="288" y="72" width="24" height="24" fill="#2b2f77" style="animation-delay:0.675s"/>
+    <rect id="px-3-13" class="pixel" x="312" y="72" width="24" height="24" fill="#2b2f77" style="animation-delay:0.720s"/>
+    <rect id="px-4-1" class="pixel" x="24" y="96" width="24" height="24" fill="#2b2f77" style="animation-delay:0.225s"/>
+    <rect id="px-4-2" class="pixel" x="48" y="96" width="24" height="24" fill="#2b2f77" style="animation-delay:0.270s"/>
+    <rect id="px-4-3" class="pixel" x="72" y="96" width="24" height="24" fill="#2b2f77" style="animation-delay:0.315s"/>
+    <rect id="px-4-4" class="pixel" x="96" y="96" width="24" height="24" fill="#2b2f77" style="animation-delay:0.360s"/>
+    <rect id="px-4-5" class="pixel" x="120" y="96" width="24" height="24" fill="#8ecae6" style="animation-delay:0.405s"/>
+    <rect id="px-4-6" class="pixel" x="144" y="96" width="24" height="24" fill="#8ecae6" style="animation-delay:0.450s"/>
+    <rect id="px-4-7" class="pixel" x="168" y="96" width="24" height="24" fill="#8ecae6" style="animation-delay:0.495s"/>
+    <rect id="px-4-8" class="pixel" x="192" y="96" width="24" height="24" fill="#8ecae6" style="animation-delay:0.540s"/>
+    <rect id="px-4-9" class="pixel" x="216" y="96" width="24" height="24" fill="#8ecae6" style="animation-delay:0.585s"/>
+    <rect id="px-4-10" class="pixel" x="240" y="96" width="24" height="24" fill="#8ecae6" style="animation-delay:0.630s"/>
+    <rect id="px-4-11" class="pixel" x="264" y="96" width="24" height="24" fill="#2b2f77" style="animation-delay:0.675s"/>
+    <rect id="px-4-12" class="pixel" x="288" y="96" width="24" height="24" fill="#2b2f77" style="animation-delay:0.720s"/>
+    <rect id="px-4-13" class="pixel" x="312" y="96" width="24" height="24" fill="#2b2f77" style="animation-delay:0.765s"/>
+    <rect id="px-4-14" class="pixel" x="336" y="96" width="24" height="24" fill="#2b2f77" style="animation-delay:0.810s"/>
+    <rect id="px-5-1" class="pixel" x="24" y="120" width="24" height="24" fill="#2b2f77" style="animation-delay:0.270s"/>
+    <rect id="px-5-2" class="pixel" x="48" y="120" width="24" height="24" fill="#2b2f77" style="animation-delay:0.315s"/>
+    <rect id="px-5-3" class="pixel" x="72" y="120" width="24" height="24" fill="#2b2f77" style="animation-delay:0.360s"/>
+    <rect id="px-5-4" class="pixel" x="96" y="120" width="24" height="24" fill="#8ecae6" style="animation-delay:0.405s"/>
+    <rect id="px-5-5" class="pixel" x="120" y="120" width="24" height="24" fill="#8ecae6" style="animation-delay:0.450s"/>
+    <rect id="px-5-6" class="pixel" x="144" y="120" width="24" height="24" fill="#8ecae6" style="animation-delay:0.495s"/>
+    <rect id="px-5-7" class="pixel" x="168" y="120" width="24" height="24" fill="#8ecae6" style="animation-delay:0.540s"/>
+    <rect id="px-5-8" class="pixel" x="192" y="120" width="24" height="24" fill="#8ecae6" style="animation-delay:0.585s"/>
+    <rect id="px-5-9" class="pixel" x="216" y="120" width="24" height="24" fill="#8ecae6" style="animation-delay:0.630s"/>
+    <rect id="px-5-10" class="pixel" x="240" y="120" width="24" height="24" fill="#8ecae6" style="animation-delay:0.675s"/>
+    <rect id="px-5-11" class="pixel" x="264" y="120" width="24" height="24" fill="#8ecae6" style="animation-delay:0.720s"/>
+    <rect id="px-5-12" class="pixel" x="288" y="120" width="24" height="24" fill="#2b2f77" style="animation-delay:0.765s"/>
+    <rect id="px-5-13" class="pixel" x="312" y="120" width="24" height="24" fill="#2b2f77" style="animation-delay:0.810s"/>
+    <rect id="px-5-14" class="pixel" x="336" y="120" width="24" height="24" fill="#2b2f77" style="animation-delay:0.855s"/>
+    <rect id="px-6-1" class="pixel" x="24" y="144" width="24" height="24" fill="#2b2f77" style="animation-delay:0.315s"/>
+    <rect id="px-6-2" class="pixel" x="48" y="144" width="24" height="24" fill="#2b2f77" style="animation-delay:0.360s"/>
+    <rect id="px-6-3" class="pixel" x="72" y="144" width="24" height="24" fill="#2b2f77" style="animation-delay:0.405s"/>
+    <rect id="px-6-4" class="pixel" x="96" y="144" width="24" height="24" fill="#8ecae6" style="animation-delay:0.450s"/>
+    <rect id="px-6-5" class="pixel" x="120" y="144" width="24" height="24" fill="#ffffff" style="animation-delay:0.495s"/>
+    <rect id="px-6-6" class="pixel" x="144" y="144" width="24" height="24" fill="#ffffff" style="animation-delay:0.540s"/>
+    <rect id="px-6-7" class="pixel" x="168" y="144" width="24" height="24" fill="#ffffff" style="animation-delay:0.585s"/>
+    <rect id="px-6-8" class="pixel" x="192" y="144" width="24" height="24" fill="#ffffff" style="animation-delay:0.630s"/>
+    <rect id="px-6-9" class="pixel" x="216" y="144" width="24" height="24" fill="#8ecae6" style="animation-delay:0.675s"/>
+    <rect id="px-6-10" class="pixel" x="240" y="144" width="24" height="24" fill="#ffffff" style="animation-delay:0.720s"/>
+    <rect id="px-6-11" class="pixel" x="264" y="144" width="24" height="24" fill="#ffffff" style="animation-delay:0.765s"/>
+    <rect id="px-6-12" class="pixel" x="288" y="144" width="24" height="24" fill="#2b2f77" style="animation-delay:0.810s"/>
+    <rect id="px-6-13" class="pixel" x="312" y="144" width="24" height="24" fill="#2b2f77" style="animation-delay:0.855s"/>
+    <rect id="px-6-14" class="pixel" x="336" y="144" width="24" height="24" fill="#2b2f77" style="animation-delay:0.900s"/>
+    <rect id="px-7-1" class="pixel" x="24" y="168" width="24" height="24" fill="#2b2f77" style="animation-delay:0.360s"/>
+    <rect id="px-7-2" class="pixel" x="48" y="168" width="24" height="24" fill="#2b2f77" style="animation-delay:0.405s"/>
+    <rect id="px-7-3" class="pixel" x="72" y="168" width="24" height="24" fill="#2b2f77" style="animation-delay:0.450s"/>
+    <rect id="px-7-4" class="pixel" x="96" y="168" width="24" height="24" fill="#8ecae6" style="animation-delay:0.495s"/>
+    <rect id="px-7-5" class="pixel" x="120" y="168" width="24" height="24" fill="#ffffff" style="animation-delay:0.540s"/>
+    <rect id="px-7-6" class="pixel" x="144" y="168" width="24" height="24" fill="#ffffff" style="animation-delay:0.585s"/>
+    <rect id="px-7-7" class="pixel" x="168" y="168" width="24" height="24" fill="#ffffff" style="animation-delay:0.630s"/>
+    <rect id="px-7-8" class="pixel" x="192" y="168" width="24" height="24" fill="#ffffff" style="animation-delay:0.675s"/>
+    <rect id="px-7-9" class="pixel" x="216" y="168" width="24" height="24" fill="#8ecae6" style="animation-delay:0.720s"/>
+    <rect id="px-7-10" class="pixel" x="240" y="168" width="24" height="24" fill="#ffffff" style="animation-delay:0.765s"/>
+    <rect id="px-7-11" class="pixel" x="264" y="168" width="24" height="24" fill="#ffffff" style="animation-delay:0.810s"/>
+    <rect id="px-7-12" class="pixel" x="288" y="168" width="24" height="24" fill="#2b2f77" style="animation-delay:0.855s"/>
+    <rect id="px-7-13" class="pixel" x="312" y="168" width="24" height="24" fill="#2b2f77" style="animation-delay:0.900s"/>
+    <rect id="px-7-14" class="pixel" x="336" y="168" width="24" height="24" fill="#2b2f77" style="animation-delay:0.945s"/>
+    <rect id="px-8-1" class="pixel" x="24" y="192" width="24" height="24" fill="#2b2f77" style="animation-delay:0.405s"/>
+    <rect id="px-8-2" class="pixel" x="48" y="192" width="24" height="24" fill="#2b2f77" style="animation-delay:0.450s"/>
+    <rect id="px-8-3" class="pixel" x="72" y="192" width="24" height="24" fill="#2b2f77" style="animation-delay:0.495s"/>
+    <rect id="px-8-4" class="pixel" x="96" y="192" width="24" height="24" fill="#8ecae6" style="animation-delay:0.540s"/>
+    <rect id="px-8-5" class="pixel" x="120" y="192" width="24" height="24" fill="#8ecae6" style="animation-delay:0.585s"/>
+    <rect id="px-8-6" class="pixel" x="144" y="192" width="24" height="24" fill="#8ecae6" style="animation-delay:0.630s"/>
+    <rect id="px-8-7" class="pixel" x="168" y="192" width="24" height="24" fill="#8ecae6" style="animation-delay:0.675s"/>
+    <rect id="px-8-8" class="pixel" x="192" y="192" width="24" height="24" fill="#8ecae6" style="animation-delay:0.720s"/>
+    <rect id="px-8-9" class="pixel" x="216" y="192" width="24" height="24" fill="#8ecae6" style="animation-delay:0.765s"/>
+    <rect id="px-8-10" class="pixel" x="240" y="192" width="24" height="24" fill="#8ecae6" style="animation-delay:0.810s"/>
+    <rect id="px-8-11" class="pixel" x="264" y="192" width="24" height="24" fill="#8ecae6" style="animation-delay:0.855s"/>
+    <rect id="px-8-12" class="pixel" x="288" y="192" width="24" height="24" fill="#2b2f77" style="animation-delay:0.900s"/>
+    <rect id="px-8-13" class="pixel" x="312" y="192" width="24" height="24" fill="#2b2f77" style="animation-delay:0.945s"/>
+    <rect id="px-8-14" class="pixel" x="336" y="192" width="24" height="24" fill="#2b2f77" style="animation-delay:0.990s"/>
+    <rect id="px-9-1" class="pixel" x="24" y="216" width="24" height="24" fill="#2b2f77" style="animation-delay:0.450s"/>
+    <rect id="px-9-2" class="pixel" x="48" y="216" width="24" height="24" fill="#2b2f77" style="animation-delay:0.495s"/>
+    <rect id="px-9-3" class="pixel" x="72" y="216" width="24" height="24" fill="#2b2f77" style="animation-delay:0.540s"/>
+    <rect id="px-9-4" class="pixel" x="96" y="216" width="24" height="24" fill="#2b2f77" style="animation-delay:0.585s"/>
+    <rect id="px-9-5" class="pixel" x="120" y="216" width="24" height="24" fill="#8ecae6" style="animation-delay:0.630s"/>
+    <rect id="px-9-6" class="pixel" x="144" y="216" width="24" height="24" fill="#8ecae6" style="animation-delay:0.675s"/>
+    <rect id="px-9-7" class="pixel" x="168" y="216" width="24" height="24" fill="#8ecae6" style="animation-delay:0.720s"/>
+    <rect id="px-9-8" class="pixel" x="192" y="216" width="24" height="24" fill="#8ecae6" style="animation-delay:0.765s"/>
+    <rect id="px-9-9" class="pixel" x="216" y="216" width="24" height="24" fill="#8ecae6" style="animation-delay:0.810s"/>
+    <rect id="px-9-10" class="pixel" x="240" y="216" width="24" height="24" fill="#8ecae6" style="animation-delay:0.855s"/>
+    <rect id="px-9-11" class="pixel" x="264" y="216" width="24" height="24" fill="#2b2f77" style="animation-delay:0.900s"/>
+    <rect id="px-9-12" class="pixel" x="288" y="216" width="24" height="24" fill="#2b2f77" style="animation-delay:0.945s"/>
+    <rect id="px-9-13" class="pixel" x="312" y="216" width="24" height="24" fill="#2b2f77" style="animation-delay:0.990s"/>
+    <rect id="px-9-14" class="pixel" x="336" y="216" width="24" height="24" fill="#2b2f77" style="animation-delay:1.035s"/>
+    <rect id="px-10-2" class="pixel" x="48" y="240" width="24" height="24" fill="#2b2f77" style="animation-delay:0.540s"/>
+    <rect id="px-10-3" class="pixel" x="72" y="240" width="24" height="24" fill="#2b2f77" style="animation-delay:0.585s"/>
+    <rect id="px-10-4" class="pixel" x="96" y="240" width="24" height="24" fill="#2b2f77" style="animation-delay:0.630s"/>
+    <rect id="px-10-5" class="pixel" x="120" y="240" width="24" height="24" fill="#2b2f77" style="animation-delay:0.675s"/>
+    <rect id="px-10-6" class="pixel" x="144" y="240" width="24" height="24" fill="#2b2f77" style="animation-delay:0.720s"/>
+    <rect id="px-10-7" class="pixel" x="168" y="240" width="24" height="24" fill="#2b2f77" style="animation-delay:0.765s"/>
+    <rect id="px-10-8" class="pixel" x="192" y="240" width="24" height="24" fill="#2b2f77" style="animation-delay:0.810s"/>
+    <rect id="px-10-9" class="pixel" x="216" y="240" width="24" height="24" fill="#2b2f77" style="animation-delay:0.855s"/>
+    <rect id="px-10-10" class="pixel" x="240" y="240" width="24" height="24" fill="#2b2f77" style="animation-delay:0.900s"/>
+    <rect id="px-10-11" class="pixel" x="264" y="240" width="24" height="24" fill="#2b2f77" style="animation-delay:0.945s"/>
+    <rect id="px-10-12" class="pixel" x="288" y="240" width="24" height="24" fill="#2b2f77" style="animation-delay:0.990s"/>
+    <rect id="px-10-13" class="pixel" x="312" y="240" width="24" height="24" fill="#2b2f77" style="animation-delay:1.035s"/>
+    <rect id="px-11-2" class="pixel" x="48" y="264" width="24" height="24" fill="#2b2f77" style="animation-delay:0.585s"/>
+    <rect id="px-11-3" class="pixel" x="72" y="264" width="24" height="24" fill="#2b2f77" style="animation-delay:0.630s"/>
+    <rect id="px-11-4" class="pixel" x="96" y="264" width="24" height="24" fill="#2b2f77" style="animation-delay:0.675s"/>
+    <rect id="px-11-5" class="pixel" x="120" y="264" width="24" height="24" fill="#ff6b6b" style="animation-delay:0.720s"/>
+    <rect id="px-11-6" class="pixel" x="144" y="264" width="24" height="24" fill="#ff6b6b" style="animation-delay:0.765s"/>
+    <rect id="px-11-7" class="pixel" x="168" y="264" width="24" height="24" fill="#ff6b6b" style="animation-delay:0.810s"/>
+    <rect id="px-11-8" class="pixel" x="192" y="264" width="24" height="24" fill="#ff6b6b" style="animation-delay:0.855s"/>
+    <rect id="px-11-9" class="pixel" x="216" y="264" width="24" height="24" fill="#2b2f77" style="animation-delay:0.900s"/>
+    <rect id="px-11-10" class="pixel" x="240" y="264" width="24" height="24" fill="#2b2f77" style="animation-delay:0.945s"/>
+    <rect id="px-11-11" class="pixel" x="264" y="264" width="24" height="24" fill="#2b2f77" style="animation-delay:0.990s"/>
+    <rect id="px-11-12" class="pixel" x="288" y="264" width="24" height="24" fill="#2b2f77" style="animation-delay:1.035s"/>
+    <rect id="px-12-3" class="pixel" x="72" y="288" width="24" height="24" fill="#2b2f77" style="animation-delay:0.675s"/>
+    <rect id="px-12-4" class="pixel" x="96" y="288" width="24" height="24" fill="#2b2f77" style="animation-delay:0.720s"/>
+    <rect id="px-12-5" class="pixel" x="120" y="288" width="24" height="24" fill="#2b2f77" style="animation-delay:0.765s"/>
+    <rect id="px-12-6" class="pixel" x="144" y="288" width="24" height="24" fill="#2b2f77" style="animation-delay:0.810s"/>
+    <rect id="px-12-7" class="pixel" x="168" y="288" width="24" height="24" fill="#2b2f77" style="animation-delay:0.855s"/>
+    <rect id="px-12-8" class="pixel" x="192" y="288" width="24" height="24" fill="#2b2f77" style="animation-delay:0.900s"/>
+    <rect id="px-12-9" class="pixel" x="216" y="288" width="24" height="24" fill="#2b2f77" style="animation-delay:0.945s"/>
+    <rect id="px-12-10" class="pixel" x="240" y="288" width="24" height="24" fill="#2b2f77" style="animation-delay:0.990s"/>
+    <rect id="px-12-11" class="pixel" x="264" y="288" width="24" height="24" fill="#2b2f77" style="animation-delay:1.035s"/>
+    <rect id="px-12-12" class="pixel" x="288" y="288" width="24" height="24" fill="#2b2f77" style="animation-delay:1.080s"/>
+    <rect id="px-13-4" class="pixel" x="96" y="312" width="24" height="24" fill="#2b2f77" style="animation-delay:0.765s"/>
+    <rect id="px-13-5" class="pixel" x="120" y="312" width="24" height="24" fill="#2b2f77" style="animation-delay:0.810s"/>
+    <rect id="px-13-6" class="pixel" x="144" y="312" width="24" height="24" fill="#2b2f77" style="animation-delay:0.855s"/>
+    <rect id="px-13-7" class="pixel" x="168" y="312" width="24" height="24" fill="#2b2f77" style="animation-delay:0.900s"/>
+    <rect id="px-13-8" class="pixel" x="192" y="312" width="24" height="24" fill="#2b2f77" style="animation-delay:0.945s"/>
+    <rect id="px-13-9" class="pixel" x="216" y="312" width="24" height="24" fill="#2b2f77" style="animation-delay:0.990s"/>
+    <rect id="px-13-10" class="pixel" x="240" y="312" width="24" height="24" fill="#2b2f77" style="animation-delay:1.035s"/>
+    <rect id="px-13-11" class="pixel" x="264" y="312" width="24" height="24" fill="#2b2f77" style="animation-delay:1.080s"/>
+    <rect id="px-14-5" class="pixel" x="120" y="336" width="24" height="24" fill="#2b2f77" style="animation-delay:0.855s"/>
+    <rect id="px-14-6" class="pixel" x="144" y="336" width="24" height="24" fill="#2b2f77" style="animation-delay:0.900s"/>
+    <rect id="px-14-7" class="pixel" x="168" y="336" width="24" height="24" fill="#2b2f77" style="animation-delay:0.945s"/>
+    <rect id="px-14-8" class="pixel" x="192" y="336" width="24" height="24" fill="#2b2f77" style="animation-delay:0.990s"/>
+    <rect id="px-14-9" class="pixel" x="216" y="336" width="24" height="24" fill="#2b2f77" style="animation-delay:1.035s"/>
+    <rect id="px-14-10" class="pixel" x="240" y="336" width="24" height="24" fill="#2b2f77" style="animation-delay:1.080s"/>
+</svg>
