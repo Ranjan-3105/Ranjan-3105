@@ -14,18 +14,9 @@
 
 <br/>
 
-<!--
-  ⚙️  ANIMATED AVATAR
-  This is a custom-built animated SVG (pixel-avatar.svg, included alongside this README).
-  Upload it to this same repo (e.g. in an /assets folder) and it will animate — pixels
-  assemble into the avatar, hold, then dissolve, on an infinite loop.
-  Replace RAW_URL_HERE below with:
-  https://raw.githubusercontent.com/Ranjan-3105/Ranjan-3105/main/assets/pixel-avatar.svg
--->
 <div align="center">
   <img src="assets/pixel-avatar.svg" width="220" alt="animated pixel avatar" />
   <br/>
-  <sub><i>loads pixel-by-pixel — refresh the page to replay</i></sub>
 </div>
 
 <br/>
@@ -72,7 +63,6 @@ Engineer focused on building scalable systems with strong algorithmic foundation
 
 </div>
 
-> These are separate repositories — create one per card (`projects-showcase`, `learning-log`, `education-journey`) each with its own README. GitHub can't do in-page navigation inside a single README, so this "click → new page" pattern is simulated by linking out to purpose-built repos, exactly like the profile you saw.
 
 <br/>
 
@@ -80,24 +70,20 @@ Engineer focused on building scalable systems with strong algorithmic foundation
 
 <div align="center">
 
-<a href="https://github.com/Ranjan-3105/health-assist-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranjan-3105&repo=health-assist-bot&theme=graywhite&hide_border=true" />
-</a>
-<a href="https://github.com/Ranjan-3105/ChakraView">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranjan-3105&repo=ChakraView&theme=graywhite&hide_border=true" />
-</a>
-<a href="https://github.com/Ranjan-3105/DoodleHub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranjan-3105&repo=DoodleHub&theme=graywhite&hide_border=true" />
-</a>
-<a href="https://github.com/Ranjan-3105/2_404">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranjan-3105&repo=2_404&theme=graywhite&hide_border=true" />
-</a>
-<a href="https://github.com/Ranjan-3105/interceptor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranjan-3105&repo=interceptor&theme=graywhite&hide_border=true" />
-</a>
-<a href="https://github.com/Ranjan-3105/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ranjan-3105&repo=portfolio&theme=graywhite&hide_border=true" />
-</a>
+<table>
+<tr>
+<td><a href="https://github.com/Ranjan-3105/health-assist-bot"><img src="assets/cards/health-assist-bot.svg" width="380"/></a></td>
+<td><a href="https://github.com/Ranjan-3105/ChakraView"><img src="assets/cards/chakraview.svg" width="380"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Ranjan-3105/DoodleHub"><img src="assets/cards/doodlehub.svg" width="380"/></a></td>
+<td><a href="https://github.com/Ranjan-3105/2_404"><img src="assets/cards/404.svg" width="380"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Ranjan-3105/interceptor"><img src="assets/cards/interceptor.svg" width="380"/></a></td>
+<td><a href="https://github.com/Ranjan-3105/portfolio"><img src="assets/cards/portfolio.svg" width="380"/></a></td>
+</tr>
+</table>
 
 </div>
 
@@ -141,7 +127,7 @@ Engineer focused on building scalable systems with strong algorithmic foundation
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ranjan-3105&show_icons=true&hide_border=true&theme=graywhite&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjan-3105&hide_border=true&theme=default&background=FFFFFF&stroke=1F4E79&ring=1F4E79&fire=EA4335&currStreakLabel=1F4E79" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Ranjan-3105&hide_border=true&theme=default&background=FFFFFF&stroke=1F4E79&ring=1F4E79&fire=EA4335&currStreakLabel=1F4E79" width="48%" />
 
 <br/>
 
@@ -152,12 +138,6 @@ Engineer focused on building scalable systems with strong algorithmic foundation
 
 <br/>
 
-<!--
-  🐍 CONTRIBUTION SNAKE (dynamic, moving element)
-  This animated GIF is generated automatically by a GitHub Action that "eats" your
-  contribution graph. Add the workflow below as .github/workflows/snake.yml,
-  then this image will render and animate on its own — no manual updates needed.
--->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ranjan-3105/Ranjan-3105/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation" />
 </div>
@@ -171,7 +151,7 @@ Engineer focused on building scalable systems with strong algorithmic foundation
 <br/>
 
 <div align="center">
-  <i>Build deliberately. Optimize continuously. Execute consistently.</i>
+  <img src="assets/marquee.svg" width="70%" alt="build deliberately, optimize continuously, execute consistently" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8ECF7,100:F7F7FB&height=100&section=footer" width="100%"/>
