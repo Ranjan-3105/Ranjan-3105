@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/welcome.png" width="100%" alt="Welcome banner"/>
+<img src="assets/welcome.png" width="700" alt="Welcome banner"/>
 
 </div>
 
@@ -26,19 +26,27 @@ Backend Engineer | AI & Systems | Java
 
 <table>
 <tr>
-<td width="70%">
+<td width="68%">
 
 I'm a Computer Science undergraduate at **OUTR, Bhubaneswar**, focused on backend engineering, distributed systems and AI.
 
-Most of my work is in Java and Spring Boot. Lately I've been going deeper into system design, DevOps and LLMs — alongside competitive programming.
+**Education**
+- B.Tech CSE (AI/ML), OUTR
+- CGPA: **8.9 / 10**
 
-**Education** — B.Tech CSE (AI/ML), OUTR · CGPA **8.9/10**
-**Currently exploring** — Spring Boot · Distributed Systems · AI Applications · System Design
+**Focus**
+- Backend systems in **Java** and **Spring Boot**
+- Distributed systems and system design
+- AI applications and LLM tooling
+
+**Also doing**
+- Competitive programming in Java
+- Exploring DevOps and cloud infra
 
 </td>
-<td align="center" width="30%">
+<td align="center" width="32%">
 
-<img src="assets/right_side_small.jpeg" width="160"/>
+<img src="assets/right_side_small.jpeg" width="150"/>
 
 </td>
 </tr>
@@ -48,16 +56,20 @@ Most of my work is in Java and Spring Boot. Lately I've been going deeper into s
 
 <table>
 <tr>
-<td align="center" width="30%">
+<td align="center" width="32%">
 
-<img src="assets/left_side_small.jpeg" width="160"/>
+<img src="assets/left_side_small.jpeg" width="150"/>
 
 </td>
-<td width="70%">
+<td width="68%">
 
 ### Beyond code
 
-Outside of engineering, I'm learning Japanese with my sights set on **JLPT N2**, and I try to keep reading consistently — small habits, kept up over time.
+**Learning Japanese** — working toward **JLPT N2**. Started as a curiosity about the language, turned into a daily habit of grammar drills and vocabulary decks.
+
+**Reading** — mostly non-fiction, a bit of fiction on the side. Nothing structured, just whatever keeps me turning pages.
+
+**Why it matters** — both are the same muscle as engineering: small, consistent effort compounding over time, rather than trying to solve everything in one sitting.
 
 </td>
 </tr>
@@ -93,16 +105,37 @@ Outside of engineering, I'm learning Japanese with my sights set on **JLPT N2**,
 ## Tech Stack
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js&theme=dark"/>
+<p>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+</p>
 
 **Frameworks**
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,nextjs&theme=dark"/>
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</p>
 
 **Databases**
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark"/>
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
 
 **Tools**
-<img src="https://skillicons.dev/icons?i=docker,git,linux,aws&theme=dark"/>
+<p>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 ---
 
@@ -110,21 +143,16 @@ Outside of engineering, I'm learning Japanese with my sights set on **JLPT N2**,
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ranjan-3105&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=999999"/>
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRanjan-3105&label=Repositories&query=%24.public_repos&color=black&labelColor=black&style=for-the-badge&logoColor=white"/>
+<img src="https://ghstats.dev/api/card?username=Ranjan-3105&hide=stars,commits,prs,issues,week,trend,avg,active_day,grade,followers,repos&bg=000000&text=ffffff&title_color=ffffff&icon_color=ffffff&border_color=000000&hide_border=true&show_ring=true&custom_title=Streak%20%26%20Contributions&size=compact" width="48%"/>
+<img src="https://ghstats.dev/api/card?username=Ranjan-3105&hide=prs,issues,streak,week,trend,avg,active_day,grade,contributions,repos,followers&bg=000000&text=ffffff&title_color=ffffff&icon_color=ffffff&border_color=000000&hide_border=true&show_ring=false&custom_title=GitHub%20Stats&size=compact" width="48%"/>
 
 </div>
 
 ---
 
-## GitHub Analytics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ranjan-3105&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan-3105&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranjan-3105&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=cccccc&hide_border=true&title_color=ffffff"/>
 
 </div>
 
